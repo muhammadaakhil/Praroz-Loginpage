@@ -255,6 +255,22 @@
     transition: 0.3s ease;
 }
 
-.footericon:hover{
+.facebook:hover{
+    color: #ff7200;
+}
+
+.insta:hover{
+    color: #ff7200;
+}
+
+.twitter:hover{
+    color: #ff7200;
+}
+
+.google:hover{
+    color: #ff7200;
+}
+
+.skype:hover{
     color: #ff7200;
 }
